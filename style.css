@@ -181,7 +181,6 @@ nav> :nth-child(2) {
     color: rgb(0, 0, 0);
     position: absolute;
     bottom: 0px;
-    left: -10px;
     -webkit-text-stroke-width: 2px;
     -webkit-text-stroke-color: rgb(255, 255, 255);
 }
